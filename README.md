@@ -1,4 +1,4 @@
-# Business card data
+# Biz card data
 
 -Pip install easyocr & import it.
 
@@ -12,7 +12,7 @@
 
 -Read Images through reader.readtext
 
--Create function to read text of business card data
+-Create function to read text of biz card data
 
 -then Install Pandas Library
 
