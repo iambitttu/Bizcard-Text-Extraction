@@ -1,5 +1,7 @@
 # Biz Card Data Extraction
 
+https://bizcard-text-extraction-a7jduyfnvvesxdckg8rhy6.streamlit.app/
+
 ## Introduction
 The Biz Card Data project focuses on extracting and processing data from business card images using the EasyOCR library. By leveraging optical character recognition (OCR) techniques, we can automatically extract text from business card images and convert it into structured data for further analysis or storage. This documentation outlines the steps involved in extracting business card data and demonstrates how to use the Streamlit framework to create a user-friendly interface for the data extraction process.
 
